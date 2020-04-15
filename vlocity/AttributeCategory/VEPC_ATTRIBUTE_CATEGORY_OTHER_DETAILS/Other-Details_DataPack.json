@@ -2,6 +2,7 @@
     "%vlocity_namespace%__ApplicableSubType__c": "Profile Attribute",
     "%vlocity_namespace%__ApplicableTypesFilter__c": "",
     "%vlocity_namespace%__ApplicableTypes__c": "Any",
+    "%vlocity_namespace%__Attribute__c": "Other-Details_Attributes.json",
     "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_OTHER_DETAILS",
     "%vlocity_namespace%__ColorCode__c": "",
     "%vlocity_namespace%__Description__c": "All other attributes",

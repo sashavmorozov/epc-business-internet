@@ -4,9 +4,9 @@
         "%vlocity_namespace%__AttributeAdjustmentComments__c": "",
         "%vlocity_namespace%__AttributeAdjustmentUnits__c": "",
         "%vlocity_namespace%__AttributeCategoryId__c": {
-            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_GENERIC_ATTRIBUTES",
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_OTHER_DETAILS",
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_GENERIC_ATTRIBUTES",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_OTHER_DETAILS",
             "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
         },
         "%vlocity_namespace%__AttributeDisplayNameOverride__c": "Number of Security Software Licenses",
@@ -75,7 +75,7 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.Business Internet Offering Model-20200209-1",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1CHnjyLwBfkvEDF4vzilwPmEqDWgbHqOGoobQ3OQ9Dbo/edit",
-        "eos_Transaction_ID__c": "d0b70664-2884-4404-9aba-9bdbb256bf0c",
-        "eos_Transaction_Timestamp__c": "02/04/2020@15:38:49GMT"
+        "eos_Transaction_ID__c": "734ab01b-c016-4845-95b4-7336d5fef2f0",
+        "eos_Transaction_Timestamp__c": "15/04/2020@12:04:53GMT"
     }
 ]

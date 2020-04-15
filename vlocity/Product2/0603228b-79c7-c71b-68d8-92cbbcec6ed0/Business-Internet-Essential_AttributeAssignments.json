@@ -4,9 +4,9 @@
         "%vlocity_namespace%__AttributeAdjustmentComments__c": "",
         "%vlocity_namespace%__AttributeAdjustmentUnits__c": "",
         "%vlocity_namespace%__AttributeCategoryId__c": {
-            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_GENERIC_ATTRIBUTES",
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_CONTRACT_DETAILS",
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_GENERIC_ATTRIBUTES",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_CONTRACT_DETAILS",
             "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
         },
         "%vlocity_namespace%__AttributeDisplayNameOverride__c": "Contract Term",
@@ -128,7 +128,7 @@
         ],
         "%vlocity_namespace%__ValueDataType__c": "Picklist",
         "%vlocity_namespace%__ValueDescription__c": "",
-        "%vlocity_namespace%__Value__c": "2 Year",
+        "%vlocity_namespace%__Value__c": "1 Year",
         "Name": "Contract Term",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
@@ -137,17 +137,17 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.Business Internet Offering Model-20200209-1",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1CHnjyLwBfkvEDF4vzilwPmEqDWgbHqOGoobQ3OQ9Dbo/edit",
-        "eos_Transaction_ID__c": "c4bda6e1-cfe0-4510-a604-82fc3fbfc5b9",
-        "eos_Transaction_Timestamp__c": "14/04/2020@15:56:32GMT"
+        "eos_Transaction_ID__c": "372fc412-f867-49d4-8817-1b5d101a0d13",
+        "eos_Transaction_Timestamp__c": "15/04/2020@12:06:30GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
         "%vlocity_namespace%__AttributeAdjustmentComments__c": "",
         "%vlocity_namespace%__AttributeAdjustmentUnits__c": "",
         "%vlocity_namespace%__AttributeCategoryId__c": {
-            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_GENERIC_ATTRIBUTES",
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_INTERNET_DETAILS",
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_GENERIC_ATTRIBUTES",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_INTERNET_DETAILS",
             "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
         },
         "%vlocity_namespace%__AttributeDisplayNameOverride__c": "Download Speed",
@@ -286,17 +286,17 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.Business Internet Offering Model-20200209-1",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1CHnjyLwBfkvEDF4vzilwPmEqDWgbHqOGoobQ3OQ9Dbo/edit",
-        "eos_Transaction_ID__c": "c4bda6e1-cfe0-4510-a604-82fc3fbfc5b9",
-        "eos_Transaction_Timestamp__c": "14/04/2020@15:56:32GMT"
+        "eos_Transaction_ID__c": "372fc412-f867-49d4-8817-1b5d101a0d13",
+        "eos_Transaction_Timestamp__c": "15/04/2020@12:06:30GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
         "%vlocity_namespace%__AttributeAdjustmentComments__c": "",
         "%vlocity_namespace%__AttributeAdjustmentUnits__c": "",
         "%vlocity_namespace%__AttributeCategoryId__c": {
-            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_GENERIC_ATTRIBUTES",
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_INTERNET_DETAILS",
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_GENERIC_ATTRIBUTES",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_INTERNET_DETAILS",
             "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
         },
         "%vlocity_namespace%__AttributeDisplayNameOverride__c": "Monthly Data Cap",
@@ -403,17 +403,17 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.Business Internet Offering Model-20200209-1",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1CHnjyLwBfkvEDF4vzilwPmEqDWgbHqOGoobQ3OQ9Dbo/edit",
-        "eos_Transaction_ID__c": "c4bda6e1-cfe0-4510-a604-82fc3fbfc5b9",
-        "eos_Transaction_Timestamp__c": "14/04/2020@15:56:32GMT"
+        "eos_Transaction_ID__c": "372fc412-f867-49d4-8817-1b5d101a0d13",
+        "eos_Transaction_Timestamp__c": "15/04/2020@12:06:30GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
         "%vlocity_namespace%__AttributeAdjustmentComments__c": "",
         "%vlocity_namespace%__AttributeAdjustmentUnits__c": "",
         "%vlocity_namespace%__AttributeCategoryId__c": {
-            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_GENERIC_ATTRIBUTES",
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_INTERNET_DETAILS",
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_GENERIC_ATTRIBUTES",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_INTERNET_DETAILS",
             "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
         },
         "%vlocity_namespace%__AttributeDisplayNameOverride__c": "Upload Speed",
@@ -552,7 +552,7 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.Business Internet Offering Model-20200209-1",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1CHnjyLwBfkvEDF4vzilwPmEqDWgbHqOGoobQ3OQ9Dbo/edit",
-        "eos_Transaction_ID__c": "c4bda6e1-cfe0-4510-a604-82fc3fbfc5b9",
-        "eos_Transaction_Timestamp__c": "14/04/2020@15:56:32GMT"
+        "eos_Transaction_ID__c": "372fc412-f867-49d4-8817-1b5d101a0d13",
+        "eos_Transaction_Timestamp__c": "15/04/2020@12:06:30GMT"
     }
 ]
