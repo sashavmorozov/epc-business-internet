@@ -9,14 +9,14 @@ VlocityDataPackKeys:
     - AttributeCategory/VEPC_ATTRIBUTE_CATEGORY_OTHER_DETAILS
     - AttributeCategory/VEPC_ATTRIBUTE_CATEGORY_SHIPPING_DETAILS
     - AttributeCategory/VEPC_ATTRIBUTE_CATEGORY_WI_FI_SERVICE_DETAILS
-    - ObjectClass/Base Product Spec Object Type
-    - ObjectClass/Business Internet Object Type
-    - ObjectClass/Internet CPE Object Type
-    - ObjectClass/Internet Installation Object Type
-    - ObjectClass/Internet Security Object Type
-    - ObjectClass/LTE Backup Object Type
-    - ObjectClass/Public Wi-Fi Object Type
-    - ObjectClass/Static IP Object Type
+    - ObjectLayout/1829340a-7ded-87e0-4619-793879ecf093
+    - ObjectLayout/5236d2ce-3524-6051-2d25-f0393fd9aa27
+    - ObjectLayout/3964505c-5d31-77e4-51fd-b24f951f754c
+    - ObjectLayout/fb4f40d6-5451-7e8d-10db-59ad9755492f
+    - ObjectLayout/99fc3526-49d6-dc2a-26bc-a95525e83b94
+    - ObjectLayout/c2069274-8e66-09e4-bf2b-dd6098abd391
+    - ObjectLayout/fa6ed187-9f4c-6fca-84d3-388660e36425
+    - ObjectLayout/c0cc342a-094d-5a21-308a-e6337b4ae13c
     - PriceList/VEPC_PRICELIST_2020_BUSINESS
     - Product2/e7b536b9-ffef-e3ad-421d-922ccc5e1db3
     - Product2/afe6ec4e-fbeb-422a-3b8b-8ac8c1f6bd2b
@@ -40,6 +40,7 @@ VlocityDataPackKeys:
 VlocityTypesToFetch:
     - AttributeCategory
     - ObjectClass
+    - ObjectLayout
     - PriceList
     - Product2
     - VlocityPicklist
