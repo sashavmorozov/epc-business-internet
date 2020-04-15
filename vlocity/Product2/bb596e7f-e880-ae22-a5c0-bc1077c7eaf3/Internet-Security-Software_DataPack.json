@@ -22,9 +22,9 @@
     "%vlocity_namespace%__Modification__c": "",
     "%vlocity_namespace%__ObjectFieldAttribute__c": "Internet-Security-Software_ObjectFieldAttributes.json",
     "%vlocity_namespace%__ObjectTypeId__c": {
-        "%vlocity_namespace%__GlobalKey__c": null,
+        "%vlocity_namespace%__GlobalKey__c": "eb8426-f584b5-f681c2-9ff167-04ca5c4a8",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/Generated-1253544804",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/eb8426-f584b5-f681c2-9ff167-04ca5c4a8",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
     },
     "%vlocity_namespace%__ParentClassId__c": "",

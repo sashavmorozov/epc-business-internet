@@ -22,9 +22,9 @@
     "%vlocity_namespace%__Modification__c": "",
     "%vlocity_namespace%__ObjectFieldAttribute__c": "Static-IP_ObjectFieldAttributes.json",
     "%vlocity_namespace%__ObjectTypeId__c": {
-        "%vlocity_namespace%__GlobalKey__c": null,
+        "%vlocity_namespace%__GlobalKey__c": "ac94df-d97b60-6e4a37-fc08e6-84a7cb54f",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/Generated-1954766293",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/ac94df-d97b60-6e4a37-fc08e6-84a7cb54f",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
     },
     "%vlocity_namespace%__ParentClassId__c": "",

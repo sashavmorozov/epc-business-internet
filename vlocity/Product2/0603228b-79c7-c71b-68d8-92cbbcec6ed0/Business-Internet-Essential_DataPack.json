@@ -22,9 +22,9 @@
     "%vlocity_namespace%__Modification__c": "",
     "%vlocity_namespace%__ObjectFieldAttribute__c": "Business-Internet-Essential_ObjectFieldAttributes.json",
     "%vlocity_namespace%__ObjectTypeId__c": {
-        "%vlocity_namespace%__GlobalKey__c": null,
+        "%vlocity_namespace%__GlobalKey__c": "26d4da-7c5368-c4d395-b9a5a5-fa88b921f",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/Generated849779260",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/26d4da-7c5368-c4d395-b9a5a5-fa88b921f",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
     },
     "%vlocity_namespace%__ParentClassId__c": "",

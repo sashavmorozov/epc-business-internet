@@ -20,9 +20,9 @@
     "%vlocity_namespace%__JeopardySafetyInterval__c": "",
     "%vlocity_namespace%__Modification__c": "",
     "%vlocity_namespace%__ObjectTypeId__c": {
-        "%vlocity_namespace%__GlobalKey__c": null,
+        "%vlocity_namespace%__GlobalKey__c": "6afac5-a02572-726cfc-e33199-68206c071",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/Generated221165011",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/6afac5-a02572-726cfc-e33199-68206c071",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
     },
     "%vlocity_namespace%__ParentClassId__c": "",
